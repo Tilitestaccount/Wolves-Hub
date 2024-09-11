@@ -1,0 +1,12 @@
+return {
+    ["Yae"] = {
+        ["Background"] = "rbxassetid://76353617418986",
+        ["Character"] = "rbxassetid://128404730423591",
+        ["Icon"] = "rbxassetid://118914021721507",
+        ["Button Image"] = "rbxassetid://118914021721507",
+        ["Color"] = {
+              ["Text"] = Color3.fromRGB(221, 86, 92),
+              ["Stroke"] = Color3.fromRGB(104, 47, 46)
+        }
+    }
+}
