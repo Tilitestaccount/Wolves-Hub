@@ -1,9 +1,9 @@
 return {
     ["Yae"] = {
-        ["Background"] = "rbxassetid://76353617418986",
-        ["Character"] = "rbxassetid://128404730423591",
+        ["Background"] = "rbxassetid://116655888232425",
+        ["Character"] = "rbxassetid://97261963281645",
         ["Icon"] = "rbxassetid://72865164084122",
-        ["Button Image"] = "rbxassetid://72865164084122",
+        ["Button Image"] = "",
         ["Color"] = {
               ["Text"] = Color3.fromRGB(221, 86, 92),
               ["Stroke"] = Color3.fromRGB(104, 47, 46)
