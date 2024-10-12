@@ -6,7 +6,7 @@ return {
         ["Button Image"] = "",
         ["Color"] = {
               ["Text"] = Color3.fromRGB(255, 136, 11),
-              ["Stroke"] = Color3.fromRGB(104, 47, 46)
+              ["Stroke"] = Color3.fromRGB(216, 171, 46)
         }
     }
 }
