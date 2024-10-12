@@ -1,5 +1,5 @@
 return {
-    bounty = {canuse = false, kick = "updated new script, join discord: https://discord.gg/wQMuDjqVMp to get newest script"}, 
-    bountyhavekey = {canuse = true, kick = "https://discord.gg/wQMuDjqVMp"}, 
+    bounty = {canuse = false, kick = "updated new script, join discord: discord.gg/tsuoscripts to get newest script"}, 
+    bountyhavekey = {canuse = true, kick = "discord.gg/tsuoscripts"}, 
     main = {canuse = false, kick = "not able to use"}
 }
