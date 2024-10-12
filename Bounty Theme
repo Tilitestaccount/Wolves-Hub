@@ -5,7 +5,7 @@ return {
         ["Icon"] = "rbxassetid://72865164084122",
         ["Button Image"] = "",
         ["Color"] = {
-              ["Text"] = Color3.fromRGB(221, 86, 92),
+              ["Text"] = Color3.fromRGB(255, 136, 11),
               ["Stroke"] = Color3.fromRGB(104, 47, 46)
         }
     }
